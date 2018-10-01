@@ -2,3 +2,4 @@
 bin/*
 !bin/dataset
 !bin/dataset_after_bwt
+!python
