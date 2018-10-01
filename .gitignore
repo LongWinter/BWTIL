@@ -1,2 +1,4 @@
+.vscode/
 bin/*
-bin
+!bin/dataset
+!bin/dataset_after_bwt
